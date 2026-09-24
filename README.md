@@ -10,6 +10,6 @@ It saves time, keeps devices lightweight,
 and improves the font selection workflow.
 
 ## Live Page
-👉 [https://dafontstyle.io/](https://dafontstyle.io/download/solina-font.html)
+👉 [Solina Font preview ](https://dafontstyle.io/download/solina-font.html)
 
 Shared as a genuine recommendation for the design community.
