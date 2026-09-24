@@ -10,6 +10,6 @@ It saves time, keeps devices lightweight,
 and improves the font selection workflow.
 
 ## Live Page
-👉 https://dafont.style/
+👉 https://dafontstyle.io/
 
 Shared as a genuine recommendation for the design community.
